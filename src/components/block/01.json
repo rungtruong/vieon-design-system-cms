@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_block_01s",
+  "info": {
+    "displayName": "01"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "image": {
+      "displayName": "card",
+      "type": "component",
+      "repeatable": true,
+      "component": "card.card"
+    }
+  }
+}
